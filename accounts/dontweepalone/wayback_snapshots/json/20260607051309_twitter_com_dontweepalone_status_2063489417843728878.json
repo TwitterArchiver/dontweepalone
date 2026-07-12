@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2063264448689901749",
+    "created_at": "2026-06-07T05:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063489417843728878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045127800324288513",
+          "start": 0,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063489417843728878",
+    "in_reply_to_user_id": "2045127800324288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063264448689901749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yacht_ono 考上985不影响找不到工作🤣寒窗十几年就换来一身精神病也很惨。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2063264448689901749",
+        "created_at": "2026-06-07T05:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063489417843728878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045127800324288513",
+              "start": 0,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063489417843728878",
+        "in_reply_to_user_id": "2045127800324288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063264448689901749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yacht_ono 考上985不影响找不到工作🤣寒窗十几年就换来一身精神病也很惨。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2063264448689901749",
+        "created_at": "2026-06-06T14:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063264448689901749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063264448689901749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13044,
+          "like_count": 375,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "你们每天在网上卖惨，结果呢，有的是北京上海户口，有的在985211读书，有的家里开公司，有的ip在国外...急得我这个心呀七上八下地乱跳你们就别掺和我们穷比的事儿了行吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 125,
+          "like_count": 826,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 143
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪30",
+        "name": "yacht",
+        "pinned_tweet_id": "2058824497806074128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 34,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 200
+        },
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}
