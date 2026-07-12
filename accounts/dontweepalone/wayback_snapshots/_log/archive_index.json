@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T17:05:51",
+  "last_updated": "2026-07-12T17:06:17",
   "html": {
     "https://web.archive.org/web/20260518173734if_/https://twitter.com/dontweepalone/status/2056428997282758867": {
       "status": "done",
@@ -2754,9 +2754,9 @@
       "referenced_by": [
         "20260608035237_twitter_com_dontweepalone_status_2063831537330921948.json"
       ],
-      "last_updated": "2026-07-12T16:48:45",
+      "last_updated": "2026-07-12T17:06:17",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608035237/https://video.twimg.com/tweet_video/HKQScC0WMAArqro.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
