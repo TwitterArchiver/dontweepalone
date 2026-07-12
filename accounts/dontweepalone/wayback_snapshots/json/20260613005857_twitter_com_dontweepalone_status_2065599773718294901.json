@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2065599773718294901",
+    "created_at": "2026-06-13T00:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065599773718294901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1108737084301307904",
+          "start": 3,
+          "username": "EntropyF73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065599773718294901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065524127826653506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EntropyF73: 这篇很赞同，我就是那个一定会抗拒吃药的（布洛芬除外\n情绪不稳定是我表达欲存续的主要支撑，即使这导致我脆弱敏感不适合上班以及市面上绝大多数工作\n但我只想接着写作，接着讲话，这件事对我来说重要程度高过表演一个平庸的“正常人”，如果药物使我麻木丧失表达…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065524103402897408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKo3OnpWQAAaUGw.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065524103457513472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKo3On2XoAAVKAV.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065524103436476416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKo3OnxWoAA6EwA.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2065599773718294901",
+        "created_at": "2026-06-13T00:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065599773718294901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1108737084301307904",
+              "start": 3,
+              "username": "EntropyF73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065599773718294901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065524127826653506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EntropyF73: 这篇很赞同，我就是那个一定会抗拒吃药的（布洛芬除外\n情绪不稳定是我表达欲存续的主要支撑，即使这导致我脆弱敏感不适合上班以及市面上绝大多数工作\n但我只想接着写作，接着讲话，这件事对我来说重要程度高过表演一个平庸的“正常人”，如果药物使我麻木丧失表达…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065524103402897408",
+            "3_2065524103457513472",
+            "3_2065524103436476416"
+          ]
+        },
+        "author_id": "1108737084301307904",
+        "conversation_id": "2065524127826653506",
+        "created_at": "2026-06-12T19:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065524127826653506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcKC7S0Irk",
+              "end": 163,
+              "expanded_url": "https://x.com/EntropyF73/status/2065524127826653506/photo/1",
+              "media_key": "3_2065524103402897408",
+              "start": 140,
+              "url": "https://t.co/XcKC7S0Irk"
+            },
+            {
+              "display_url": "pic.x.com/XcKC7S0Irk",
+              "end": 163,
+              "expanded_url": "https://x.com/EntropyF73/status/2065524127826653506/photo/1",
+              "media_key": "3_2065524103457513472",
+              "start": 140,
+              "url": "https://t.co/XcKC7S0Irk"
+            },
+            {
+              "display_url": "pic.x.com/XcKC7S0Irk",
+              "end": 163,
+              "expanded_url": "https://x.com/EntropyF73/status/2065524127826653506/photo/1",
+              "media_key": "3_2065524103436476416",
+              "start": 140,
+              "url": "https://t.co/XcKC7S0Irk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065524127826653506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这篇很赞同，我就是那个一定会抗拒吃药的（布洛芬除外\n情绪不稳定是我表达欲存续的主要支撑，即使这导致我脆弱敏感不适合上班以及市面上绝大多数工作\n但我只想接着写作，接着讲话，这件事对我来说重要程度高过表演一个平庸的“正常人”，如果药物使我麻木丧失表达欲那完全是得不偿失，我不会开心的\n以及做了二十来年adhd患者我只掌握过adhd状态下的学习方法，正常人的学习方法我其实不会的\n还有我无比惧怕成瘾反应，有一部分原因来自于我爹，他这辈子没能成功戒烟，从我出生以来他就是烟鬼，尝试戒烟也有快十年了，还是会复吸。在我看来成瘾机制相当可怕，我对它的恐惧程度超过了任何可能的“药效”本身。那不碰为好，毕竟精神类药物的运作原理本身就无法说服我…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 420,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这篇很赞同，我就是那个一定会抗拒吃药的（布洛芬除外\n情绪不稳定是我表达欲存续的主要支撑，即使这导致我脆弱敏感不适合上班以及市面上绝大多数工作\n但我只想接着写作，接着讲话，这件事对我来说重要程度高过表演一个平庸的“正常人”，如果药物使我麻木丧失表达欲那完全是得不偿失，我不会开心的 https://t.co/XcKC7S0Irk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 170,
+          "like_count": 1383,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 232
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 1224,
+          "like_count": 32150,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 3148
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      }
+    ]
+  }
+}

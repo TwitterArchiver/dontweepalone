@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2067952123766288780",
+    "created_at": "2026-06-19T12:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067954959728124112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067954959728124112",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067952123766288780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 好美呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2067952044108066816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLXbXmasAAiCGr.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2067952044129034240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLXbXraoAAEz0c.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2067952123766288780",
+        "created_at": "2026-06-19T12:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067954959728124112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067954959728124112",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067952123766288780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 好美呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067952044108066816",
+            "3_2067952044129034240"
+          ]
+        },
+        "author_id": "1733157188057853952",
+        "conversation_id": "2067952123766288780",
+        "created_at": "2026-06-19T12:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067952123766288780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJBze17Awf",
+              "end": 51,
+              "expanded_url": "https://x.com/nigich436594/status/2067952123766288780/photo/1",
+              "media_key": "3_2067952044108066816",
+              "start": 28,
+              "url": "https://t.co/RJBze17Awf"
+            },
+            {
+              "display_url": "pic.x.com/RJBze17Awf",
+              "end": 51,
+              "expanded_url": "https://x.com/nigich436594/status/2067952123766288780/photo/1",
+              "media_key": "3_2067952044129034240",
+              "start": 28,
+              "url": "https://t.co/RJBze17Awf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067952123766288780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这对总感觉拍的怪怪的嗯。到现在都好久没有穿过lo裙了😿 https://t.co/RJBze17Awf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 189,
+          "like_count": 2346,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜正常聊天欢迎很爱说话｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "ᵟຶᴖ ᵟຶ",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2067070907714252991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231620416471041/lX-zAlgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 211,
+          "like_count": 2334,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 754
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

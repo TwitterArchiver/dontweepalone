@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2066904819076587785",
+    "created_at": "2026-06-16T15:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066904819076587785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066904819076587785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在一个不属于我的地方被迫适应一种不属于我的时区，扮演一个不是我的人。一切都让我怀疑，这似乎并非什么新生而更像是死后的世界。无论如何也改变不了我空无一物且破碎得无法修复的灵魂，结束不了对那个永远隐身于我的世界的大他者的恐惧。我困在这里了，无法逃离。或者说从始至终也不曾有过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2066904819076587785",
+        "created_at": "2026-06-16T15:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066904819076587785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066904819076587785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在一个不属于我的地方被迫适应一种不属于我的时区，扮演一个不是我的人。一切都让我怀疑，这似乎并非什么新生而更像是死后的世界。无论如何也改变不了我空无一物且破碎得无法修复的灵魂，结束不了对那个永远隐身于我的世界的大他者的恐惧。我困在这里了，无法逃离。或者说从始至终也不曾有过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 177,
+          "like_count": 1790,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 252
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

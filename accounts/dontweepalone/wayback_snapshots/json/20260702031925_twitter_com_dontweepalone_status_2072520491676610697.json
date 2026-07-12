@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2072520491676610697",
+    "created_at": "2026-07-02T03:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072520491676610697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624337198765178881",
+          "start": 3,
+          "username": "niconekkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072520491676610697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072299281437057131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niconekkod: 别人放假：香港，东京，纽约\n我放假：在家割手\n就很..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2072520491676610697",
+        "created_at": "2026-07-02T03:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072520491676610697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624337198765178881",
+              "start": 3,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072520491676610697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072299281437057131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niconekkod: 别人放假：香港，东京，纽约\n我放假：在家割手\n就很..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624337198765178881",
+        "conversation_id": "2072299281437057131",
+        "created_at": "2026-07-01T12:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072299281437057131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072299281437057131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别人放假：香港，东京，纽约\n我放假：在家割手\n就很..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 220,
+          "like_count": 4178,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\n14岁傻逼低龄做题区\n坐标CQ主城\n欢迎互 fo\n我的鼠鼠：@Shivam3228🐭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126961294323712/SCEUmmkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 72,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

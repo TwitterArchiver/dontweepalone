@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056425822844862464"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "conversation_id": "2056425956143951908",
+    "created_at": "2026-05-18T17:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056425956143951908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSZQWviANe",
+          "end": 38,
+          "expanded_url": "https://x.com/dontweepalone/status/2056425956143951908/photo/1",
+          "media_key": "3_2056425822844862464",
+          "start": 15,
+          "url": "https://t.co/GSZQWviANe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056425956143951908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bsky可以发长文，秒了x… https://t.co/GSZQWviANe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2056425822844862464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInkY_WbwAAzRni.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056425822844862464"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2056425956143951908",
+        "created_at": "2026-05-18T17:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056425956143951908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSZQWviANe",
+              "end": 38,
+              "expanded_url": "https://x.com/dontweepalone/status/2056425956143951908/photo/1",
+              "media_key": "3_2056425822844862464",
+              "start": 15,
+              "url": "https://t.co/GSZQWviANe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056425956143951908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bsky可以发长文，秒了x… https://t.co/GSZQWviANe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper转生小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 38,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

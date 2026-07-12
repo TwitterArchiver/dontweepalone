@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2073850721292939719",
+    "created_at": "2026-07-06T06:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074013059291766858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074013059291766858",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073850721292939719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lvovl3 祝我自杀成功的才是我朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2073850721292939719",
+        "created_at": "2026-07-06T06:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074013059291766858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074013059291766858",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073850721292939719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lvovl3 祝我自杀成功的才是我朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2073850721292939719",
+        "created_at": "2026-07-05T19:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073850721292939719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073850721292939719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "祝我自杀成功的才是我朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 220,
+          "like_count": 4454,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n模仿人类失败者/全世界最恨homework之人\n人生是被恐惧追赶着逃跑\n梦想是像普通人一样的身体",
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2051808991211389330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072863807450529793/WGetqfPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 437,
+          "like_count": 3434,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 3890
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

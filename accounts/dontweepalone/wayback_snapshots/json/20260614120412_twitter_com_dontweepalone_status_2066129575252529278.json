@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2066091946351935505",
+    "created_at": "2026-06-14T12:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066129575252529278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "EsterBrown38007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066129575252529278",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066091946351935505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EsterBrown38007 煞笔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066091943143378945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw7rPhbkAE4Ire.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2066091946351935505",
+        "created_at": "2026-06-14T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066129575252529278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066129575252529278",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066091946351935505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 煞笔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066091943143378945"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2066091946351935505",
+        "created_at": "2026-06-14T09:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066091946351935505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGtAqgjTN3",
+              "end": 26,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2066091946351935505/photo/1",
+              "media_key": "3_2066091943143378945",
+              "start": 3,
+              "url": "https://t.co/kGtAqgjTN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066091946351935505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2134,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼 https://t.co/kGtAqgjTN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 174,
+          "like_count": 1545,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 241
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "09 / OD / 温良的精神病 / 友好一切 / 社交孤儿  死宅  网蛆 / 查成分回fo / 很温良且智商低  所以请不要攻击我😺",
+        "id": "2039398734962761728",
+        "name": "沒有明天的我們在昨日相見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065790791151452160/sMSUF4bS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 177,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 356
+        },
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

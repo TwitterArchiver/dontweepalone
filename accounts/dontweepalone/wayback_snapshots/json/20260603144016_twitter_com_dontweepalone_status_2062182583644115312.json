@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2062179841437581411",
+    "created_at": "2026-06-03T14:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062182583644115312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1923003801470107650",
+          "start": 0,
+          "username": "HaliaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062182583644115312",
+    "in_reply_to_user_id": "1923003801470107650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062180421446807810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaliaOvO 嗯嗯会的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2062179841437581411",
+        "created_at": "2026-06-03T14:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062182583644115312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1923003801470107650",
+              "start": 0,
+              "username": "HaliaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062182583644115312",
+        "in_reply_to_user_id": "1923003801470107650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062180421446807810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaliaOvO 嗯嗯会的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923003801470107650",
+        "conversation_id": "2062179841437581411",
+        "created_at": "2026-06-03T14:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062180421446807810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062180421446807810",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062179841437581411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 既然这样就好好生活吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "pinned_tweet_id": "2056418972074143974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 75,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 105
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T13:13:44.000Z",
+        "description": "",
+        "id": "1923003801470107650",
+        "name": "Nirvana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061471790749360128/UFsP5z60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "HaliaOvO",
+        "verified": false
+      }
+    ]
+  }
+}

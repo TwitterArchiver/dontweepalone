@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2056419919286419925",
+    "created_at": "2026-05-18T17:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056419919286419925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2880189872",
+          "start": 3,
+          "username": "okada_mei0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056419919286419925",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 601
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056391896755474643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okada_mei0519: お誕生日を迎えました🎂✦.·\n\n応援してくださるお一人おひとり、\n支えてくださる周りの皆さまへの愛と感謝を以って、さらに好きなことにチャレンジしていける年にできたらと思います 👑🤍⁺｡\n\nこれからも〚 岡田夢以 〛を\nよろしくお願いします……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2056391870314668032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInFgsUbYAA72ng.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2056419919286419925",
+        "created_at": "2026-05-18T17:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056419919286419925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2880189872",
+              "start": 3,
+              "username": "okada_mei0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056419919286419925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 601
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056391896755474643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okada_mei0519: お誕生日を迎えました🎂✦.·\n\n応援してくださるお一人おひとり、\n支えてくださる周りの皆さまへの愛と感謝を以って、さらに好きなことにチャレンジしていける年にできたらと思います 👑🤍⁺｡\n\nこれからも〚 岡田夢以 〛を\nよろしくお願いします……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056391870314668032"
+          ]
+        },
+        "author_id": "2880189872",
+        "conversation_id": "2056391896755474643",
+        "created_at": "2026-05-18T15:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056391896755474643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/45kFNO1FCF",
+              "end": 150,
+              "expanded_url": "https://x.com/okada_mei0519/status/2056391896755474643/photo/1",
+              "media_key": "3_2056391870314668032",
+              "start": 127,
+              "url": "https://t.co/45kFNO1FCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056391896755474643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 33423,
+          "like_count": 2676,
+          "quote_count": 30,
+          "reply_count": 294,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": "お誕生日を迎えました🎂✦.·\n\n応援してくださるお一人おひとり、\n支えてくださる周りの皆さまへの愛と感謝を以って、さらに好きなことにチャレンジしていける年にできたらと思います 👑🤍⁺｡\n\nこれからも〚 岡田夢以 〛を\nよろしくお願いします…っ🧸🎈🪽ིྀ https://t.co/45kFNO1FCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper转生小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 32,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "AceCrew Entertainment所属 ︴声優 #D4DJ Merm4id 水島茉莉花 ┊ #バンドリ Ave Mujica Ba.🎸Timoris/八幡海鈴 ┊ #らぶフォー 最上羅巫 ┊ etc…┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ✦ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 156,
+                "expanded_url": "https://maysland.jp/",
+                "start": 133,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身🪽⋆✦",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1988228371151810658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969841732847362048/2nc87moH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148676,
+          "following_count": 418,
+          "like_count": 64909,
+          "listed_count": 1283,
+          "media_count": 4740,
+          "tweet_count": 15131
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

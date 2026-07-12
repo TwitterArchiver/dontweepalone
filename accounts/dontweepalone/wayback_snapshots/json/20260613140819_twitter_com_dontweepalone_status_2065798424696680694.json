@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      }
+    ],
+    "conversation_id": "2065798424696680694",
+    "created_at": "2026-06-13T14:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065798424696680694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1702023357565186049",
+          "start": 3,
+          "username": "tinylittlecindy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065798424696680694",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 576
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065509465042862215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tinylittlecindy: why isnt cutting so socially acceptable like drinking or vaping"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2065798424696680694",
+        "created_at": "2026-06-13T14:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065798424696680694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1702023357565186049",
+              "start": 3,
+              "username": "tinylittlecindy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065798424696680694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 576
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065509465042862215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tinylittlecindy: why isnt cutting so socially acceptable like drinking or vaping"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702023357565186049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2065509465042862215",
+        "created_at": "2026-06-12T19:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065509465042862215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065509465042862215",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 39808,
+          "like_count": 3512,
+          "quote_count": 36,
+          "reply_count": 38,
+          "retweet_count": 576
+        },
+        "reply_settings": "everyone",
+        "text": "why isnt cutting so socially acceptable like drinking or vaping"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 172,
+          "like_count": 1510,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 238
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T18:16:34.000Z",
+        "description": "#shedtwt ⋆˙⟡ 7teen⋆.˚eng/pl 𖹭ˎˊ˗ she/her˚｡⋆ 𑣲￶￶i love loona and soojin ⊹₊˚ pro recovery.ᐟ.ᐟ cw:55kg gw:42kg DNI: -15, nonshedtwt .ᐟ.ᐟ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1702023357565186049",
+        "name": "cindy ✧",
+        "pinned_tweet_id": "2011272399241834724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042690350372843521/W3uuUM-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 254,
+          "like_count": 13910,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1652
+        },
+        "username": "tinylittlecindy",
+        "verified": false
+      }
+    ]
+  }
+}

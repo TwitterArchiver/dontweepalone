@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2067204136895144315",
+    "created_at": "2026-06-17T11:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067204136895144315"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067204136895144315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被现生朋友锐评说我闹麻了。我真tm破防了呀。不想思考了，只是一味地想去似…到底为什么要把我救回来，到底为什么我没办法4 掉。这样憋屈地活着，没有自由没有个人空间，比死了还难受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2067204136895144315",
+        "created_at": "2026-06-17T11:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067204136895144315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067204136895144315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被现生朋友锐评说我闹麻了。我真tm破防了呀。不想思考了，只是一味地想去似…到底为什么要把我救回来，到底为什么我没办法4 掉。这样憋屈地活着，没有自由没有个人空间，比死了还难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 179,
+          "like_count": 1924,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 259
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

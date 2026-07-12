@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2073349425242788079",
+    "created_at": "2026-07-04T10:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073349425242788079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jindol_s/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jindol_s/status/2073214875015491589",
+          "start": 5,
+          "url": "https://t.co/71piDEZXI4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073349425242788079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073214875015491589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想要… https://t.co/71piDEZXI4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073214864479440896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWJ71RbUAA3peW.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2073349425242788079",
+        "created_at": "2026-07-04T10:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073349425242788079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jindol_s/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jindol_s/status/2073214875015491589",
+              "start": 5,
+              "url": "https://t.co/71piDEZXI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073349425242788079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073214875015491589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想要… https://t.co/71piDEZXI4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073214864479440896"
+          ]
+        },
+        "author_id": "967453034908274688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073214875015491589",
+        "created_at": "2026-07-04T01:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073214875015491589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5WZgPTMMU",
+              "end": 53,
+              "expanded_url": "https://x.com/jindol_s/status/2073214875015491589/photo/1",
+              "media_key": "3_2073214864479440896",
+              "start": 30,
+              "url": "https://t.co/D5WZgPTMMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073214875015491589",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 29464,
+          "like_count": 812,
+          "quote_count": 18,
+          "reply_count": 10,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "아직도 일본슈게이즈가 왜 이렇게 좋은지 잘 모르겠어요 https://t.co/D5WZgPTMMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 220,
+          "like_count": 4302,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-24T17:35:52.000Z",
+        "description": "노래가 좋군요",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.naver.com/jindol538",
+                "end": 23,
+                "expanded_url": "https://blog.naver.com/jindol538",
+                "start": 0,
+                "url": "https://t.co/hHqKsSeBq2"
+              }
+            ]
+          }
+        },
+        "id": "967453034908274688",
+        "location": "대한민국",
+        "name": "진",
+        "pinned_tweet_id": "1782092508278972527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326823043117690880/xsLeMuGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 494,
+          "like_count": 26309,
+          "listed_count": 0,
+          "media_count": 2066,
+          "tweet_count": 17565
+        },
+        "url": "https://t.co/hHqKsSeBq2",
+        "username": "jindol_s",
+        "verified": false
+      }
+    ]
+  }
+}

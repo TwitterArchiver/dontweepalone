@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2068993744100368826",
+    "created_at": "2026-06-22T09:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068993744100368826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1987451345729716432",
+          "start": 75,
+          "url": "https://t.co/xm4vIbAIQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068993744100368826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987451345729716432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至今不知道我是怎么被救回来的…联用了三种致死方案（致死量的氨氯地平，苯巴比妥东莨菪碱（可能不够），普瑞+加巴+苯二氮卓几十t，以及盎司单琼十几t…… https://t.co/xm4vIbAIQE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1806,
+        "media_key": "3_1987451329061490688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TYdC0WkAAIBUf.jpg",
+        "width": 1283
+      },
+      {
+        "height": 1823,
+        "media_key": "3_1987451329116000256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TYdDBWUAAjgUy.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2068993744100368826",
+        "created_at": "2026-06-22T09:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068993744100368826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1987451345729716432",
+              "start": 75,
+              "url": "https://t.co/xm4vIbAIQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068993744100368826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987451345729716432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至今不知道我是怎么被救回来的…联用了三种致死方案（致死量的氨氯地平，苯巴比妥东莨菪碱（可能不够），普瑞+加巴+苯二氮卓几十t，以及盎司单琼十几t…… https://t.co/xm4vIbAIQE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987451329061490688",
+            "3_1987451329116000256"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1987451345729716432",
+        "created_at": "2025-11-09T09:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987451345729716432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNMYcwOCFV",
+              "end": 91,
+              "expanded_url": "https://x.com/RainduRhinns/status/1987451345729716432/photo/1",
+              "media_key": "3_1987451329061490688",
+              "start": 68,
+              "url": "https://t.co/pNMYcwOCFV"
+            },
+            {
+              "display_url": "pic.x.com/pNMYcwOCFV",
+              "end": 91,
+              "expanded_url": "https://x.com/RainduRhinns/status/1987451345729716432/photo/1",
+              "media_key": "3_1987451329116000256",
+              "start": 68,
+              "url": "https://t.co/pNMYcwOCFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987451345729716432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4900,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "服用苯巴比妥东莨菪碱自杀1例\n《法医学杂志》2022\nDOl:10.12116/jissn.1004-5619.2020.401011 https://t.co/pNMYcwOCFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 199,
+          "like_count": 2982,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 906,
+          "like_count": 4503,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 2567
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

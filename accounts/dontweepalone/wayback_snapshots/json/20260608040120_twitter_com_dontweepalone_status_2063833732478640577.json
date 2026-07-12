@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2063666255002026440",
+    "created_at": "2026-06-08T04:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063833732478640577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1609776550341414913",
+          "start": 0,
+          "username": "z_cece0710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063833732478640577",
+    "in_reply_to_user_id": "1609776550341414913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063666255002026440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z_cece0710 是这样的，我从小到大都对失败充满恐惧…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_2063666242943393792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOdg6GbIAAAlr3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2063666255002026440",
+        "created_at": "2026-06-08T04:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063833732478640577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1609776550341414913",
+              "start": 0,
+              "username": "z_cece0710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063833732478640577",
+        "in_reply_to_user_id": "1609776550341414913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063666255002026440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z_cece0710 是这样的，我从小到大都对失败充满恐惧…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063666242943393792"
+          ]
+        },
+        "author_id": "1609776550341414913",
+        "conversation_id": "2063666255002026440",
+        "created_at": "2026-06-07T16:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063666255002026440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDxGBlvpzP",
+              "end": 130,
+              "expanded_url": "https://x.com/z_cece0710/status/2063666255002026440/photo/1",
+              "media_key": "3_2063666242943393792",
+              "start": 107,
+              "url": "https://t.co/eDxGBlvpzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063666255002026440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1253,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像从小到大\n从来没有人教怎么面对失败\n学校会请优秀毕业生，优秀学长学姐\n但好像从来没有请过失败的人\nbtw虽然这么说说有点丧\n但好像成功只是少数人的\n一年前高考出分我难受了好久…\n走出来以后感觉心境真不一样了… https://t.co/eDxGBlvpzP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 132,
+          "like_count": 907,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 166
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T05:00:58.000Z",
+        "description": "07神秘忧郁大猪😭\n卑微大学生，我是正常入🥲\n街溜子属性大爆发\n不发黄不聊政专心经营我的屌丝生活🫡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ce%E2%80%86ce%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ce%E2%80%86ce%E2%80%86ce",
+                "start": 0,
+                "url": "https://t.co/PuH5YqIevf"
+              }
+            ]
+          }
+        },
+        "id": "1609776550341414913",
+        "location": "不在万达广场附近",
+        "name": "砧Ce",
+        "pinned_tweet_id": "2029970250276700603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979943201310924800/g3EDb53p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 626,
+          "like_count": 3863,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/PuH5YqIevf",
+        "username": "z_cece0710",
+        "verified": false
+      }
+    ]
+  }
+}

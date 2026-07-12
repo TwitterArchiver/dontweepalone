@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2063453156701618554",
+    "created_at": "2026-06-07T02:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063453156701618554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ismattesito/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/ismattesito/status/2063267360547410192",
+          "start": 49,
+          "url": "https://t.co/ZXbqByzlM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063453156701618554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063267360547410192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来这个，还是第一次被迫戒🈹这么久。这鬼医院怎么这么坏啊。我真的本来很少做一件事坚持这么多年🙁 https://t.co/ZXbqByzlM9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2063453156701618554",
+        "created_at": "2026-06-07T02:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063453156701618554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ismattesito/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/ismattesito/status/2063267360547410192",
+              "start": 49,
+              "url": "https://t.co/ZXbqByzlM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063453156701618554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063267360547410192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来这个，还是第一次被迫戒🈹这么久。这鬼医院怎么这么坏啊。我真的本来很少做一件事坚持这么多年🙁 https://t.co/ZXbqByzlM9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034393753000243200",
+        "conversation_id": "2063267360547410192",
+        "created_at": "2026-06-06T14:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063267360547410192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063267360547410192",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 10027,
+          "like_count": 1654,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 710
+        },
+        "reply_settings": "everyone",
+        "text": "\"¡estoy feliz!\" *me corto*\n\"estoy triste.\" *me corto*\n\"estoy enojado.\" *me corto*\n\"estoy desesperado.\" *me corto*\n\"no siento nada.\" *me corto*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 124,
+          "like_count": 818,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 135
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T22:17:28.000Z",
+        "description": "𓏵  𝘀𝘁𝘂𝗽𝗶𝗱 ı͜n  ᥣov︢ᥱ \n                     ʚ   ヒナタ  𝇁  ˒ ‘\n                                                        𝟳𝟬𝟳 ೨౿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "matteittodeidad.straw.page",
+                "end": 23,
+                "expanded_url": "https://matteittodeidad.straw.page/",
+                "start": 0,
+                "url": "https://t.co/149Ro99qGU"
+              }
+            ]
+          }
+        },
+        "id": "2034393753000243200",
+        "location": "Villapene",
+        "name": "suicidio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059996986619625472/s6iWlroV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 77,
+          "like_count": 6241,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 7167
+        },
+        "url": "https://t.co/149Ro99qGU",
+        "username": "ismattesito",
+        "verified": false
+      }
+    ]
+  }
+}

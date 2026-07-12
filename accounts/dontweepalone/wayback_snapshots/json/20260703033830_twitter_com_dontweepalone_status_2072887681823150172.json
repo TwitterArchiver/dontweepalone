@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2072670852999721266",
+    "created_at": "2026-07-03T03:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072887681823150172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072887681823150172",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072670852999721266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 这张专都好听捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2072670836126064640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMObJNubIAAAJxk.jpg",
+        "width": 325
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072670836134445056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMObJNwbAAAbbaD.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2072670852999721266",
+        "created_at": "2026-07-03T03:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072887681823150172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072887681823150172",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072670852999721266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 这张专都好听捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072670836126064640",
+            "3_2072670836134445056"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072670852999721266",
+        "created_at": "2026-07-02T13:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072670852999721266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MABOnlkoOT",
+              "end": 139,
+              "expanded_url": "https://x.com/7ksti4/status/2072670852999721266/photo/1",
+              "media_key": "3_2072670836126064640",
+              "start": 116,
+              "url": "https://t.co/MABOnlkoOT"
+            },
+            {
+              "display_url": "pic.x.com/MABOnlkoOT",
+              "end": 139,
+              "expanded_url": "https://x.com/7ksti4/status/2072670852999721266/photo/1",
+              "media_key": "3_2072670836134445056",
+              "start": 116,
+              "url": "https://t.co/MABOnlkoOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072670852999721266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "day2\n\n我起立唯我一人——Number Girl\n\n向井秀人是我爸爸，感觉日本人真的好厉害为什么能写出这么厉害的歌，我爱日本人，我爱日本朋克，好晕啊，我需要一点numbergirl，然后然后夸一下日本人，爱你们，太伟大了朋克乐 https://t.co/MABOnlkoOT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 220,
+          "like_count": 4191,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 466,
+          "like_count": 5463,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

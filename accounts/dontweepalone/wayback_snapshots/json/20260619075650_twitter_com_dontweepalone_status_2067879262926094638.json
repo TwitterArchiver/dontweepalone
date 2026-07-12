@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2067879262926094638",
+    "created_at": "2026-06-19T07:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067879262926094638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937073350750466048",
+          "start": 3,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067879262926094638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067775761503687166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karo269640607: 人痛了，吃药。是无罪的，吃出依赖性吃出成瘾性是药决定的并非病人们是吸毒人员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2067879262926094638",
+        "created_at": "2026-06-19T07:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067879262926094638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937073350750466048",
+              "start": 3,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067879262926094638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067775761503687166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karo269640607: 人痛了，吃药。是无罪的，吃出依赖性吃出成瘾性是药决定的并非病人们是吸毒人员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2067775761503687166",
+        "created_at": "2026-06-19T01:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067775761503687166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheB17w153/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/TheB17w153/status/2061074828648677583",
+              "start": 38,
+              "url": "https://t.co/DuqqveO9vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067775761503687166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061074828648677583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人痛了，吃药。是无罪的，吃出依赖性吃出成瘾性是药决定的并非病人们是吸毒人员 https://t.co/DuqqveO9vt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 188,
+          "like_count": 2285,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混乱邪恶同人女 | 讨厌宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 683,
+          "like_count": 32587,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 6544
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

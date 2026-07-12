@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064560631269990400"
+      ],
+      "media_source_tweet_id": [
+        "2064560762321023323"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "conversation_id": "2064597382315364395",
+    "created_at": "2026-06-10T06:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064597382315364395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9oJZLOL4Ah",
+          "end": 54,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2064560762321023323/photo/1",
+          "media_key": "3_2064560631269990400",
+          "start": 31,
+          "url": "https://t.co/9oJZLOL4Ah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064597382315364395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064560762321023323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 我甚至细节地改变了发型 https://t.co/9oJZLOL4Ah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2245,
+        "media_key": "3_2064560631269990400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbK9KQaoAAPZ2O.jpg",
+        "width": 1587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064560631269990400"
+          ],
+          "media_source_tweet_id": [
+            "2064560762321023323"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2064597382315364395",
+        "created_at": "2026-06-10T06:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064597382315364395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oJZLOL4Ah",
+              "end": 54,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2064560762321023323/photo/1",
+              "media_key": "3_2064560631269990400",
+              "start": 31,
+              "url": "https://t.co/9oJZLOL4Ah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064597382315364395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064560762321023323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 我甚至细节地改变了发型 https://t.co/9oJZLOL4Ah"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064560631269990400"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2064560762321023323",
+        "created_at": "2026-06-10T04:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064560762321023323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oJZLOL4Ah",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2064560762321023323/photo/1",
+              "media_key": "3_2064560631269990400",
+              "start": 12,
+              "url": "https://t.co/9oJZLOL4Ah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064560762321023323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6377,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至细节地改变了发型 https://t.co/9oJZLOL4Ah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 159,
+          "like_count": 1059,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 204
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11817,
+          "following_count": 4349,
+          "like_count": 48703,
+          "listed_count": 37,
+          "media_count": 2723,
+          "tweet_count": 15683
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065644602577838080"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065644610333159676",
+    "created_at": "2026-06-13T03:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065644610333159676"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "prsk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/apI6Y8QZag",
+          "end": 47,
+          "expanded_url": "https://x.com/dontweepalone/status/2065644610333159676/photo/1",
+          "media_key": "3_2065644602577838080",
+          "start": 24,
+          "url": "https://t.co/apI6Y8QZag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065644610333159676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#prsk 随便冲冲k榜……最近实在没精力TT https://t.co/apI6Y8QZag"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2065644602577838080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqk0mDa4AA18LR.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065644602577838080"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065644610333159676",
+        "created_at": "2026-06-13T03:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065644610333159676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "prsk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apI6Y8QZag",
+              "end": 47,
+              "expanded_url": "https://x.com/dontweepalone/status/2065644610333159676/photo/1",
+              "media_key": "3_2065644602577838080",
+              "start": 24,
+              "url": "https://t.co/apI6Y8QZag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065644610333159676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk 随便冲冲k榜……最近实在没精力TT https://t.co/apI6Y8QZag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 171,
+          "like_count": 1444,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 236
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

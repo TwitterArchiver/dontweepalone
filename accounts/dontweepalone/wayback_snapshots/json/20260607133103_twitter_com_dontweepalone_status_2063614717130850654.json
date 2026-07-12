@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2063614717130850654",
+    "created_at": "2026-06-07T13:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063614717130850654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/13witch_trials…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/13witch_trials/status/2061040010191839673",
+          "start": 24,
+          "url": "https://t.co/vYANZjDyKS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063614717130850654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061040010191839673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天忘记了是nnk生日!\n祝我推生日快乐^ ^ https://t.co/vYANZjDyKS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2061040003392958464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpI9pYbcAAfgsa.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2063614717130850654",
+        "created_at": "2026-06-07T13:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063614717130850654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/13witch_trials…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/13witch_trials/status/2061040010191839673",
+              "start": 24,
+              "url": "https://t.co/vYANZjDyKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063614717130850654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061040010191839673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天忘记了是nnk生日!\n祝我推生日快乐^ ^ https://t.co/vYANZjDyKS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061040003392958464"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061040010191839673",
+        "created_at": "2026-05-31T11:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061040010191839673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Whb3c3F0Dc",
+              "end": 116,
+              "expanded_url": "https://x.com/13witch_Trials/status/2061040010191839673/photo/1",
+              "media_key": "3_2061040003392958464",
+              "start": 93,
+              "url": "https://t.co/Whb3c3F0Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061040010191839673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 643,
+          "impression_count": 196935,
+          "like_count": 7692,
+          "quote_count": 76,
+          "reply_count": 15,
+          "retweet_count": 1741
+        },
+        "reply_settings": "everyone",
+        "text": "◆カレンダー配布のお報せ◆\n\n共犯の皆様。\n明日から使用可能な6月のカレンダーを公開いたします。\n\n6月は黒部ナノカの生まれてしまった月です。\n壁紙などにご使用ください。\n\n#まのさば https://t.co/Whb3c3F0Dc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 128,
+          "like_count": 859,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 148
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam版発売中。Switch版 2026年7月9日（木）発売予定　#まのさば\n\nYoutube：https://t.co/2vD4itw83M\n公式ショップ：https://t.co/3ZvBm16ybz\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 165,
+                "start": 149,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 114,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 91,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 145,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 122,
+                "url": "https://t.co/3ZvBm16ybz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "2028837238327644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250916,
+          "following_count": 53,
+          "like_count": 3624,
+          "listed_count": 395,
+          "media_count": 678,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

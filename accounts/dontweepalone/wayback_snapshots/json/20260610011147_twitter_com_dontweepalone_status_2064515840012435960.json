@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2064224787774546346",
+    "created_at": "2026-06-10T01:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064515840012435960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4068511652",
+          "start": 0,
+          "username": "ouyangyiqin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064515840012435960",
+    "in_reply_to_user_id": "4068511652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064298375911035199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouyangyiqin 哈哈😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2064224787774546346",
+        "created_at": "2026-06-10T01:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064515840012435960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4068511652",
+              "start": 0,
+              "username": "ouyangyiqin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064515840012435960",
+        "in_reply_to_user_id": "4068511652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064298375911035199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouyangyiqin 哈哈😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4068511652",
+        "conversation_id": "2064224787774546346",
+        "created_at": "2026-06-09T10:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064298375911035199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064298375911035199",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2382,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064224787774546346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 几个意思 是不准你入党还是不准你考公？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 156,
+          "like_count": 1006,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 197
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-30T12:22:28.000Z",
+        "description": "喜歡古籍",
+        "id": "4068511652",
+        "name": "舒浅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/703842786647257088/hFkkhUEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 953
+        },
+        "username": "ouyangyiqin",
+        "verified": false
+      }
+    ]
+  }
+}

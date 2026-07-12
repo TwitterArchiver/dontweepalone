@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2073794605389365443",
+    "created_at": "2026-07-05T15:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073794605389365443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627301480440164352",
+          "start": 3,
+          "username": "NWA12302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073794605389365443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073648398172090651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NWA12302: 我也想有自己的房间\n我也想过一年躲在自己的房间里不出门什么也不用担心的生活\n我好想躲在自己的房间里没有人突然闯进来\n我没有家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2073794605389365443",
+        "created_at": "2026-07-05T15:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073794605389365443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627301480440164352",
+              "start": 3,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073794605389365443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073648398172090651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NWA12302: 我也想有自己的房间\n我也想过一年躲在自己的房间里不出门什么也不用担心的生活\n我好想躲在自己的房间里没有人突然闯进来\n我没有家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627301480440164352",
+        "conversation_id": "2073648398172090651",
+        "created_at": "2026-07-05T06:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073648398172090651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073648398172090651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 368,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也想有自己的房间\n我也想过一年躲在自己的房间里不出门什么也不用担心的生活\n我好想躲在自己的房间里没有人突然闯进来\n我没有家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 219,
+          "like_count": 4354,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜眼镜娘厨｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063466222734430208/FnOg_4u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1490,
+          "like_count": 149560,
+          "listed_count": 8,
+          "media_count": 2257,
+          "tweet_count": 11276
+        },
+        "url": "",
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

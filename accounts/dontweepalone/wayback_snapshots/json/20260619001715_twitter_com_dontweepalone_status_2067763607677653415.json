@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2067551462880882703",
+    "created_at": "2026-06-19T00:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067763607677653415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1307650424753786880",
+          "start": 0,
+          "username": "Vantasy15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067763607677653415",
+    "in_reply_to_user_id": "1307650424753786880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067551462880882703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vantasy15 我也经常这样在大街上游荡（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2067551462880882703",
+        "created_at": "2026-06-19T00:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067763607677653415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1307650424753786880",
+              "start": 0,
+              "username": "Vantasy15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067763607677653415",
+        "in_reply_to_user_id": "1307650424753786880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067551462880882703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vantasy15 我也经常这样在大街上游荡（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1307650424753786880",
+        "conversation_id": "2067551462880882703",
+        "created_at": "2026-06-18T10:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067551462880882703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067551462880882703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊 在杭州的街头漫无目的地走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 180,
+          "like_count": 2002,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-20T11:59:00.000Z",
+        "description": "i make music sometimes/@HUI_Works /repost good art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "HUI_Works"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/vantasy-168334…",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/vantasy-168334452",
+                "start": 0,
+                "url": "https://t.co/PcbuoUQsZw"
+              }
+            ]
+          }
+        },
+        "id": "1307650424753786880",
+        "location": "自宅",
+        "name": "vantasy",
+        "pinned_tweet_id": "1920347026035790030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664185119975018496/5T7dcv_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 2465,
+          "like_count": 54255,
+          "listed_count": 8,
+          "media_count": 1485,
+          "tweet_count": 18403
+        },
+        "url": "https://t.co/PcbuoUQsZw",
+        "username": "Vantasy15",
+        "verified": false
+      }
+    ]
+  }
+}

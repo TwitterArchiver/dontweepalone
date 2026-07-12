@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2065556011050733663",
+    "created_at": "2026-06-12T22:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T23:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065556011050733663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1360522586317348865",
+          "start": 3,
+          "username": "nanami_mua"
+        }
+      ],
+      "urls": [
+        {
+          "description": "网瘾学校所处的社会生态位, 视频播放量 36181、弹幕量 291、点赞数 3088、投硬币枚数 1482、收藏人数 1226、转发人数 204, 视频作者 马督工, 作者简介 热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888，相关视频：事业中断 旅居十年遭驱逐 逆境就是重生的机会，果然，这个时候是中国学者在阿富汗修文物！，【结婚纪念日】一年前的9月17日，从小艇打大舰，到渔船撵军舰，时代已变！，在哔哩哔哩，我想讲点我知道的事、记得的事，讲点真话供大家参考【李肇星】，一口气捐出300台AED，夸我！立一下人设！，香港新闻主播react《新闻女王》现场炸锅！真实的新闻台是怎样的？，足球与战火齐飞：美国给世界杯的答案？，急诊科医生说自己像“渣男”？我在凌晨三点的医院看到人生，韩国总抢“我们文化”搞事情 背后竟是这个组织操纵",
+          "display_url": "bilibili.com/video/BV1AQJ56…",
+          "end": 99,
+          "expanded_url": "https://www.bilibili.com/video/BV1AQJ56YER7",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2065443707034443776/IkVprN6R?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2065443707034443776/IkVprN6R?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 76,
+          "status": 200,
+          "title": "【睡前消息1065】网瘾学校在第三层 精神病院是第四层_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1AQJ56YER7/",
+          "url": "https://t.co/MxhUAbLVo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065556011050733663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065443658753786231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanami_mua: 令人悲哀的是，精神病院捞人几乎是不可能的\n【睡前消息1065】网瘾学校在第三层 精神病院是第四层 UP主: 马督工 - https://t.co/MxhUAbLVo9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2065556011050733663",
+        "created_at": "2026-06-12T22:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065556011050733663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1360522586317348865",
+              "start": 3,
+              "username": "nanami_mua"
+            }
+          ],
+          "urls": [
+            {
+              "description": "网瘾学校所处的社会生态位, 视频播放量 36181、弹幕量 291、点赞数 3088、投硬币枚数 1482、收藏人数 1226、转发人数 204, 视频作者 马督工, 作者简介 热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888，相关视频：事业中断 旅居十年遭驱逐 逆境就是重生的机会，果然，这个时候是中国学者在阿富汗修文物！，【结婚纪念日】一年前的9月17日，从小艇打大舰，到渔船撵军舰，时代已变！，在哔哩哔哩，我想讲点我知道的事、记得的事，讲点真话供大家参考【李肇星】，一口气捐出300台AED，夸我！立一下人设！，香港新闻主播react《新闻女王》现场炸锅！真实的新闻台是怎样的？，足球与战火齐飞：美国给世界杯的答案？，急诊科医生说自己像“渣男”？我在凌晨三点的医院看到人生，韩国总抢“我们文化”搞事情 背后竟是这个组织操纵",
+              "display_url": "bilibili.com/video/BV1AQJ56…",
+              "end": 99,
+              "expanded_url": "https://www.bilibili.com/video/BV1AQJ56YER7",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2065443707034443776/IkVprN6R?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2065443707034443776/IkVprN6R?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "【睡前消息1065】网瘾学校在第三层 精神病院是第四层_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1AQJ56YER7/",
+              "url": "https://t.co/MxhUAbLVo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065556011050733663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065443658753786231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanami_mua: 令人悲哀的是，精神病院捞人几乎是不可能的\n【睡前消息1065】网瘾学校在第三层 精神病院是第四层 UP主: 马督工 - https://t.co/MxhUAbLVo9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2065443658753786231",
+        "created_at": "2026-06-12T14:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065443658753786231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "网瘾学校所处的社会生态位, 视频播放量 36181、弹幕量 291、点赞数 3088、投硬币枚数 1482、收藏人数 1226、转发人数 204, 视频作者 马督工, 作者简介 热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888，相关视频：事业中断 旅居十年遭驱逐 逆境就是重生的机会，果然，这个时候是中国学者在阿富汗修文物！，【结婚纪念日】一年前的9月17日，从小艇打大舰，到渔船撵军舰，时代已变！，在哔哩哔哩，我想讲点我知道的事、记得的事，讲点真话供大家参考【李肇星】，一口气捐出300台AED，夸我！立一下人设！，香港新闻主播react《新闻女王》现场炸锅！真实的新闻台是怎样的？，足球与战火齐飞：美国给世界杯的答案？，急诊科医生说自己像“渣男”？我在凌晨三点的医院看到人生，韩国总抢“我们文化”搞事情 背后竟是这个组织操纵",
+              "display_url": "bilibili.com/video/BV1AQJ56…",
+              "end": 83,
+              "expanded_url": "https://www.bilibili.com/video/BV1AQJ56YER7",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2065443707034443776/IkVprN6R?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2065443707034443776/IkVprN6R?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "【睡前消息1065】网瘾学校在第三层 精神病院是第四层_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1AQJ56YER7/",
+              "url": "https://t.co/MxhUAbLVo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065443658753786231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1512,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "令人悲哀的是，精神病院捞人几乎是不可能的\n【睡前消息1065】网瘾学校在第三层 精神病院是第四层 UP主: 马督工 - https://t.co/MxhUAbLVo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 170,
+          "like_count": 1342,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 231
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 487,
+          "like_count": 87589,
+          "listed_count": 6,
+          "media_count": 833,
+          "tweet_count": 10095
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

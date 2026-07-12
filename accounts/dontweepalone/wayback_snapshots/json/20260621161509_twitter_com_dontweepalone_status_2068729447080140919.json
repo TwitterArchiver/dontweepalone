@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068729438372786176",
+        "3_2068729438381187072",
+        "3_2068729438385430528"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068729447080140919",
+    "created_at": "2026-06-21T16:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068729447080140919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MG0i4P46CY",
+          "end": 66,
+          "expanded_url": "https://x.com/dontweepalone/status/2068729447080140919/photo/1",
+          "media_key": "3_2068729438372786176",
+          "start": 43,
+          "url": "https://t.co/MG0i4P46CY"
+        },
+        {
+          "display_url": "pic.x.com/MG0i4P46CY",
+          "end": 66,
+          "expanded_url": "https://x.com/dontweepalone/status/2068729447080140919/photo/1",
+          "media_key": "3_2068729438381187072",
+          "start": 43,
+          "url": "https://t.co/MG0i4P46CY"
+        },
+        {
+          "display_url": "pic.x.com/MG0i4P46CY",
+          "end": 66,
+          "expanded_url": "https://x.com/dontweepalone/status/2068729447080140919/photo/1",
+          "media_key": "3_2068729438385430528",
+          "start": 43,
+          "url": "https://t.co/MG0i4P46CY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068729447080140919",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 4\n\nそらごと (虚言) - rinri/鳴花ヒメ\n\n最痛的一集…如何忘怀。 https://t.co/MG0i4P46CY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2068729438372786176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWadq6acAANe0L.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068729438381187072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWadq8aoAA1VSv.jpg",
+        "width": 942
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2068729438385430528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWadq9bYAAXOuw.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068729438372786176",
+            "3_2068729438381187072",
+            "3_2068729438385430528"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068729447080140919",
+        "created_at": "2026-06-21T16:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068729447080140919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MG0i4P46CY",
+              "end": 66,
+              "expanded_url": "https://x.com/dontweepalone/status/2068729447080140919/photo/1",
+              "media_key": "3_2068729438372786176",
+              "start": 43,
+              "url": "https://t.co/MG0i4P46CY"
+            },
+            {
+              "display_url": "pic.x.com/MG0i4P46CY",
+              "end": 66,
+              "expanded_url": "https://x.com/dontweepalone/status/2068729447080140919/photo/1",
+              "media_key": "3_2068729438381187072",
+              "start": 43,
+              "url": "https://t.co/MG0i4P46CY"
+            },
+            {
+              "display_url": "pic.x.com/MG0i4P46CY",
+              "end": 66,
+              "expanded_url": "https://x.com/dontweepalone/status/2068729447080140919/photo/1",
+              "media_key": "3_2068729438385430528",
+              "start": 43,
+              "url": "https://t.co/MG0i4P46CY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068729447080140919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 4\n\nそらごと (虚言) - rinri/鳴花ヒメ\n\n最痛的一集…如何忘怀。 https://t.co/MG0i4P46CY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 198,
+          "like_count": 2833,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

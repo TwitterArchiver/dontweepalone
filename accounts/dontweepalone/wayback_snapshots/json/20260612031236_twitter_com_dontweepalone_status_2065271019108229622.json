@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2065095009284600093",
+    "created_at": "2026-06-12T03:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065271019108229622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1503813371891793931",
+          "start": 0,
+          "username": "O6ioss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065271019108229622",
+    "in_reply_to_user_id": "1503813371891793931",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065095009284600093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O6ioss 2020-2023"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2065095009284600093",
+        "created_at": "2026-06-12T03:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065271019108229622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1503813371891793931",
+              "start": 0,
+              "username": "O6ioss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065271019108229622",
+        "in_reply_to_user_id": "1503813371891793931",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065095009284600093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O6ioss 2020-2023"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503813371891793931",
+        "conversation_id": "2065095009284600093",
+        "created_at": "2026-06-11T15:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065095009284600093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065095009284600093",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6742,
+          "like_count": 28,
+          "quote_count": 18,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "qual foi o ano que vcs diriam que ARROMBOU a saúde mental de vcs?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 165,
+          "like_count": 1257,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 220
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T19:20:37.000Z",
+        "description": "se você me seguir eu te dou um beijo 💌| #meta10k",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 40,
+                "tag": "meta10k"
+              }
+            ]
+          }
+        },
+        "id": "1503813371891793931",
+        "location": "ativem as notificações 🛎️",
+        "name": "𝙈𝙐𝙎𝙀 *",
+        "pinned_tweet_id": "2065094574838587570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065091699689345024/RAD89UQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 10,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "O6ioss",
+        "verified": false
+      }
+    ]
+  }
+}

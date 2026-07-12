@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2067788919291437117",
+    "created_at": "2026-06-19T07:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067871480688632090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900064023342964739",
+          "start": 0,
+          "username": "GrugYafumin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067871480688632090",
+    "in_reply_to_user_id": "1900064023342964739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067788919291437117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrugYafumin 好萌🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067788910214963200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJDDufa4AAevX2.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2067788910219194368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJDDugbcAAh4fR.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2067788919291437117",
+        "created_at": "2026-06-19T07:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067871480688632090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900064023342964739",
+              "start": 0,
+              "username": "GrugYafumin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067871480688632090",
+        "in_reply_to_user_id": "1900064023342964739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067788919291437117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrugYafumin 好萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067788910214963200",
+            "3_2067788910219194368"
+          ]
+        },
+        "author_id": "1900064023342964739",
+        "conversation_id": "2067788919291437117",
+        "created_at": "2026-06-19T01:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067788919291437117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRvtXxKrFf",
+              "end": 23,
+              "expanded_url": "https://x.com/GrugYafumin/status/2067788919291437117/photo/1",
+              "media_key": "3_2067788910214963200",
+              "start": 0,
+              "url": "https://t.co/cRvtXxKrFf"
+            },
+            {
+              "display_url": "pic.x.com/cRvtXxKrFf",
+              "end": 23,
+              "expanded_url": "https://x.com/GrugYafumin/status/2067788919291437117/photo/1",
+              "media_key": "3_2067788910219194368",
+              "start": 0,
+              "url": "https://t.co/cRvtXxKrFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067788919291437117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 709,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cRvtXxKrFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 187,
+          "like_count": 2267,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T05:59:16.000Z",
+        "description": "家里蹲/09/od/自伤/互fo\nwill I be able to see the sky again?\nOh please, one more day ,Wishing, praying..\nwon't someone allow this shadow of a girl\nTo see one more day",
+        "id": "1900064023342964739",
+        "name": "布棉（准时吃药day20）",
+        "pinned_tweet_id": "2057504966236057717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044914889031069696/c_gESC0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 250,
+          "like_count": 4178,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "GrugYafumin",
+        "verified": false
+      }
+    ]
+  }
+}

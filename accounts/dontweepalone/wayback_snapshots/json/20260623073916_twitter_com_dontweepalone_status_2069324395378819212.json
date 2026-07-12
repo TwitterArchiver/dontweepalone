@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2069037662384869567",
+    "created_at": "2026-06-23T07:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069324395378819212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885186792573591553",
+          "start": 0,
+          "username": "sxpgsing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069324395378819212",
+    "in_reply_to_user_id": "1885186792573591553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069037662384869567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxpgsing 嗯对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2069037662384869567",
+        "created_at": "2026-06-23T07:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069324395378819212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885186792573591553",
+              "start": 0,
+              "username": "sxpgsing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069324395378819212",
+        "in_reply_to_user_id": "1885186792573591553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069037662384869567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxpgsing 嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885186792573591553",
+        "conversation_id": "2069037662384869567",
+        "created_at": "2026-06-22T12:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069037662384869567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069037662384869567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自由是比一切都贵的东西、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 204,
+          "like_count": 3265,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T04:42:22.000Z",
+        "description": "而我不再觉得失去是舍不得",
+        "id": "1885186792573591553",
+        "name": "不吃苹果",
+        "pinned_tweet_id": "1902678229540037009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907021375493349376/N9HnnIht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 103,
+          "like_count": 13485,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 3909
+        },
+        "url": "",
+        "username": "sxpgsing",
+        "verified": false
+      }
+    ]
+  }
+}

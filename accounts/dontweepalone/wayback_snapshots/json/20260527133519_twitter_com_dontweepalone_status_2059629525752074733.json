@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2059612419107037348",
+    "created_at": "2026-05-27T13:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059629525752074733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "858927366269157377",
+          "start": 0,
+          "username": "gzg040234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059629525752074733",
+    "in_reply_to_user_id": "858927366269157377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059624664100737070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzg040234 嗯嗯…谢谢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2059612419107037348",
+        "created_at": "2026-05-27T13:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059629525752074733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "858927366269157377",
+              "start": 0,
+              "username": "gzg040234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059629525752074733",
+        "in_reply_to_user_id": "858927366269157377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059624664100737070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzg040234 嗯嗯…谢谢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858927366269157377",
+        "conversation_id": "2059612419107037348",
+        "created_at": "2026-05-27T13:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059624664100737070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059624664100737070",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059612419107037348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 只要还在活着，大家都是在不断地消耗自己。而在纯粹的痛苦下就连思考都做不到。会挣扎会想要表达，那就要相信自己的期待呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜CH/EN｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "pinned_tweet_id": "2056418972074143974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 76,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T06:13:37.000Z",
+        "description": "P主出道锐意准备中/ᐠ｡ꞈ｡ᐟ\\",
+        "id": "858927366269157377",
+        "location": "中华人民共和国",
+        "name": "千夜一夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051337269106364421/JrE9WV58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 4010,
+          "like_count": 14666,
+          "listed_count": 15,
+          "media_count": 130,
+          "tweet_count": 740
+        },
+        "username": "gzg040234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2063860381106446682",
+    "created_at": "2026-06-08T05:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063860381106446682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537203757250797569",
+          "start": 3,
+          "username": "yongqingwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063860381106446682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063652843995976057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yongqingwen: 显然自杀更像生命的主题吧，我完全没愿望活到30岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2063860381106446682",
+        "created_at": "2026-06-08T05:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063860381106446682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537203757250797569",
+              "start": 3,
+              "username": "yongqingwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063860381106446682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063652843995976057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yongqingwen: 显然自杀更像生命的主题吧，我完全没愿望活到30岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537203757250797569",
+        "conversation_id": "2063652843995976057",
+        "created_at": "2026-06-07T16:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063652843995976057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riveratnoon/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/riveratnoon/status/2063589836762882299",
+              "start": 25,
+              "url": "https://t.co/ivKgtZUwAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063652843995976057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2896,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063589836762882299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "显然自杀更像生命的主题吧，我完全没愿望活到30岁 https://t.co/ivKgtZUwAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 134,
+          "like_count": 919,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T22:42:22.000Z",
+        "description": "我不想成为被人类统治的一员，但他们命中注定要接替神。",
+        "id": "1537203757250797569",
+        "name": "Angela da Foligno",
+        "pinned_tweet_id": "2027229711500468473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 357,
+          "like_count": 1064,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 375
+        },
+        "username": "yongqingwen",
+        "verified": false
+      }
+    ]
+  }
+}

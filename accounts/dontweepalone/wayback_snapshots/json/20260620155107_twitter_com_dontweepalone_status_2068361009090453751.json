@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2068361009090453751",
+    "created_at": "2026-06-20T15:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068361009090453751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dontweepalone/…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/dontweepalone/status/2067799567199068260",
+          "start": 65,
+          "url": "https://t.co/xMoNPq995E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068361009090453751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067799567199068260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Day 2\n4 - aesthetics across the color line\n美丽的中西部情绪…其实一整张专都很推荐（） https://t.co/xMoNPq995E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2067799560408457216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJMvpja4AACe41.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2068361009090453751",
+        "created_at": "2026-06-20T15:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068361009090453751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dontweepalone/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/dontweepalone/status/2067799567199068260",
+              "start": 65,
+              "url": "https://t.co/xMoNPq995E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068361009090453751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067799567199068260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Day 2\n4 - aesthetics across the color line\n美丽的中西部情绪…其实一整张专都很推荐（） https://t.co/xMoNPq995E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067799560408457216"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2067799567199068260",
+        "created_at": "2026-06-19T02:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067799567199068260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPEKqpA5TC",
+              "end": 96,
+              "expanded_url": "https://x.com/dontweepalone/status/2067799567199068260/photo/1",
+              "media_key": "3_2067799560408457216",
+              "start": 73,
+              "url": "https://t.co/RPEKqpA5TC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067799567199068260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（无聊然后我也来玩这个！\nDay1\non high in blue tomorrows\n- if we could stay/corn wave https://t.co/RPEKqpA5TC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 194,
+          "like_count": 2460,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

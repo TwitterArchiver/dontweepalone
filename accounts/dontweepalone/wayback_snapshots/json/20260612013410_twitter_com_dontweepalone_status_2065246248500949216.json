@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065246238904295424"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "conversation_id": "2065246248500949216",
+    "created_at": "2026-06-12T01:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065246248500949216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O8G5UsDLLn",
+          "end": 68,
+          "expanded_url": "https://x.com/dontweepalone/status/2065246248500949216/photo/1",
+          "media_key": "3_2065246238904295424",
+          "start": 45,
+          "url": "https://t.co/O8G5UsDLLn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065246248500949216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为我十几岁思维活跃充满可塑性的年纪受到的一切洗脑政治教育以及对信息接触的有限感到悲哀。 https://t.co/O8G5UsDLLn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065246238904295424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKk6gxuaIAAsFYz.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065246238904295424"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2065246248500949216",
+        "created_at": "2026-06-12T01:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065246248500949216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8G5UsDLLn",
+              "end": 68,
+              "expanded_url": "https://x.com/dontweepalone/status/2065246248500949216/photo/1",
+              "media_key": "3_2065246238904295424",
+              "start": 45,
+              "url": "https://t.co/O8G5UsDLLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065246248500949216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为我十几岁思维活跃充满可塑性的年纪受到的一切洗脑政治教育以及对信息接触的有限感到悲哀。 https://t.co/O8G5UsDLLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 164,
+          "like_count": 1231,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 218
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}
