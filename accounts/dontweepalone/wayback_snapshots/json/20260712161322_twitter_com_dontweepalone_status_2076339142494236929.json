@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076339133795168256"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "conversation_id": "2076339142494236929",
+    "created_at": "2026-07-12T16:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076339142494236929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Blind Equation专辑《A Funeral In Purgatory》。简介：When I reach for something blindly, I hope for the best. As it pertains to the acquisition of promo, I calculate my chances of enjoying whatever I select as",
+          "display_url": "163cn.tv/baTsSYWV",
+          "end": 73,
+          "expanded_url": "https://163cn.tv/baTsSYWV",
+          "start": 50,
+          "status": 200,
+          "title": "A Funeral In Purgatory - Blind Equation - 专辑 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/album?app_version=9.5.45&id=264686722&userid=1754320165&dlt=0846",
+          "url": "https://t.co/G6hAPqLiwy"
+        },
+        {
+          "display_url": "pic.x.com/NOOUJM9n4G",
+          "end": 97,
+          "expanded_url": "https://x.com/dontweepalone/status/2076339142494236929/photo/1",
+          "media_key": "3_2076339133795168256",
+          "start": 74,
+          "url": "https://t.co/NOOUJM9n4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076339142494236929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "今天听这张）\n分享Blind Equation的专辑《A Funeral In Purgatory》https://t.co/G6hAPqLiwy https://t.co/NOOUJM9n4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2076339133795168256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCjcPcacAAhF2l.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076339133795168256"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2076339142494236929",
+        "created_at": "2026-07-12T16:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076339142494236929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Blind Equation专辑《A Funeral In Purgatory》。简介：When I reach for something blindly, I hope for the best. As it pertains to the acquisition of promo, I calculate my chances of enjoying whatever I select as",
+              "display_url": "163cn.tv/baTsSYWV",
+              "end": 73,
+              "expanded_url": "https://163cn.tv/baTsSYWV",
+              "start": 50,
+              "status": 200,
+              "title": "A Funeral In Purgatory - Blind Equation - 专辑 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/album?app_version=9.5.45&id=264686722&userid=1754320165&dlt=0846",
+              "url": "https://t.co/G6hAPqLiwy"
+            },
+            {
+              "display_url": "pic.x.com/NOOUJM9n4G",
+              "end": 97,
+              "expanded_url": "https://x.com/dontweepalone/status/2076339142494236929/photo/1",
+              "media_key": "3_2076339133795168256",
+              "start": 74,
+              "url": "https://t.co/NOOUJM9n4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076339142494236929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "今天听这张）\n分享Blind Equation的专辑《A Funeral In Purgatory》https://t.co/G6hAPqLiwy https://t.co/NOOUJM9n4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 233,
+          "like_count": 4836,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

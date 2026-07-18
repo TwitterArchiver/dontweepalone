@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2076521920359735563",
+    "created_at": "2026-07-13T04:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076528272796696874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076528272796696874",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076521920359735563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 我也刷到这个视频了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076521912373854208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFJrWtbwAArU3d.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2076521920359735563",
+        "created_at": "2026-07-13T04:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076528272796696874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076528272796696874",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076521920359735563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 我也刷到这个视频了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076521912373854208"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "conversation_id": "2076521920359735563",
+        "created_at": "2026-07-13T04:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076521920359735563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qO4kxXo7pJ",
+              "end": 41,
+              "expanded_url": "https://x.com/ZhuangXuexin/status/2076521920359735563/photo/1",
+              "media_key": "3_2076521912373854208",
+              "start": 18,
+              "url": "https://t.co/qO4kxXo7pJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076521920359735563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早把我这方面的想法发网上早有流量了 https://t.co/qO4kxXo7pJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 239,
+          "like_count": 4892,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "我是伪人。读一些中国古典诗文和西方哲学，最爱的作者是 庾信 杜甫 王沂孙 辛弃疾 周邦彦 康德 黑格尔，欢迎让我荐书喔。最近一层人生观是v曲和木柜子动画塑造的。近对 政治思想史 英美道德学 德国法学 感兴趣。理论物理研究生，梦想的职业是科学史和文学批评。想做一个功利主义的幸福者。我上推就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2074030990251712788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069824631582953472/pBcMGUM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 247,
+          "like_count": 30957,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 3259
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

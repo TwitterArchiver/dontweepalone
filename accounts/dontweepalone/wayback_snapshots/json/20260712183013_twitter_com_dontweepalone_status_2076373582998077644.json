@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2076373582998077644",
+    "created_at": "2026-07-12T18:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076373582998077644"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076373582998077644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "活得很无聊，所以想死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2076373582998077644",
+        "created_at": "2026-07-12T18:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076373582998077644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076373582998077644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活得很无聊，所以想死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 238,
+          "like_count": 4860,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

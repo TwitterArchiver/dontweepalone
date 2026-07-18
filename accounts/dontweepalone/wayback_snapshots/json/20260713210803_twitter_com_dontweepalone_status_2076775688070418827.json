@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2076775688070418827",
+    "created_at": "2026-07-13T21:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T22:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076775688070418827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《astrum》，由 ak+q 演唱，收录于《orbis terrarvm》专辑中，《astrum》下载，《astrum》在线试听，更多astrum相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/baXI6QgI",
+          "end": 40,
+          "expanded_url": "https://163cn.tv/baXI6QgI",
+          "images": [
+            {
+              "height": 806,
+              "url": "https://pbs.twimg.com/news_img/2076775696077307904/Mpp2HQMi?format=png&name=orig",
+              "width": 806
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2076775696077307904/Mpp2HQMi?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "astrum - ak+q - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&id=1416312598&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=kXf0omh2PwovbYqFInjTEw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+          "url": "https://t.co/HsC45VmJ72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076775688070418827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享ak+q的单曲《astrum》https://t.co/HsC45VmJ72 (@网易云音乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2076775688070418827",
+        "created_at": "2026-07-13T21:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076775688070418827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《astrum》，由 ak+q 演唱，收录于《orbis terrarvm》专辑中，《astrum》下载，《astrum》在线试听，更多astrum相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/baXI6QgI",
+              "end": 40,
+              "expanded_url": "https://163cn.tv/baXI6QgI",
+              "images": [
+                {
+                  "height": 806,
+                  "url": "https://pbs.twimg.com/news_img/2076775696077307904/Mpp2HQMi?format=png&name=orig",
+                  "width": 806
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076775696077307904/Mpp2HQMi?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "astrum - ak+q - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&id=1416312598&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=kXf0omh2PwovbYqFInjTEw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+              "url": "https://t.co/HsC45VmJ72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076775688070418827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享ak+q的单曲《astrum》https://t.co/HsC45VmJ72 (@网易云音乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 245,
+          "like_count": 4967,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}
