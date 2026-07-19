@@ -1,19 +1,12 @@
 {
   "name": "Mnw2eper_",
   "username": "@dontweepalone",
-  "bio": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^ Welcome to my funeral.",
+  "bio": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^\n剖开血管 做成阶梯 逃往夜的另一边。",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 9,
-        "start": 0,
-        "username": "mnweeper"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg"
 }
