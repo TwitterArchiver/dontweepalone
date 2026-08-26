@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2078183047460196528",
+    "created_at": "2026-07-18T05:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078355222477537462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1064704803069026304",
+          "start": 0,
+          "username": "sadsadsadseal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078355222477537462",
+    "in_reply_to_user_id": "1064704803069026304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078329235786367132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadsadsadseal 😭谢谢你，你真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2078183047460196528",
+        "created_at": "2026-07-18T05:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078355222477537462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1064704803069026304",
+              "start": 0,
+              "username": "sadsadsadseal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078355222477537462",
+        "in_reply_to_user_id": "1064704803069026304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078329235786367132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadsadsadseal 😭谢谢你，你真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1064704803069026304",
+        "conversation_id": "2078183047460196528",
+        "created_at": "2026-07-18T04:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078329235786367132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078329235786367132",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078183047460196528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 可能尝试帮助别人时间会过得更快，但一旦一个人还是会非常孤独，甚至比之前更孤独。也许还是要重新开始一段亲密关系，不要害怕会受伤，要相信一定能找到那个能和你一起修炼爱情的她。🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 254,
+          "like_count": 5266,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-20T02:19:41.000Z",
+        "description": "",
+        "id": "1064704803069026304",
+        "name": "sadsadsadseal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064706124635561984/0HpOOjc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 2006,
+          "like_count": 49475,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26291
+        },
+        "url": "",
+        "username": "sadsadsadseal",
+        "verified": false
+      }
+    ]
+  }
+}

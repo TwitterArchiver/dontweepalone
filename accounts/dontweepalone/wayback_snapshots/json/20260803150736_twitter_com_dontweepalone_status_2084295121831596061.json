@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2084073565771772047",
+    "created_at": "2026-08-03T15:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084295121831596061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037193859978153984",
+          "start": 0,
+          "username": "tzy9101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084295121831596061",
+    "in_reply_to_user_id": "2037193859978153984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084243165641679261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tzy9101 谢谢呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2084073565771772047",
+        "created_at": "2026-08-03T15:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084295121831596061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037193859978153984",
+              "start": 0,
+              "username": "tzy9101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084295121831596061",
+        "in_reply_to_user_id": "2037193859978153984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084243165641679261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tzy9101 谢谢呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037193859978153984",
+        "conversation_id": "2084073565771772047",
+        "created_at": "2026-08-03T11:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084243165641679261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084243165641679261",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084073565771772047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 生日快乐🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 306,
+          "like_count": 6758,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T15:44:13.000Z",
+        "description": "GL｜弗洛洛｜直吉不拆不逆｜\n发的都是自己约的稿，不是本人画的，可以自用壁纸头图之类的，可以转发但请标明是我的稿🙇🏻‍♂️，🈲商用🈲自印，不许拿去发作品（头像库之类的那种就是）\n我知道不太可能有人看得上我的图但我还是说一下🌚\n看到喜欢的会转帖，本人生理性别男，请别讨厌我\n地图炮厌男拉黑我别看我的帖子",
+        "id": "2037193859978153984",
+        "name": "夕樱",
+        "pinned_tweet_id": "2071866033984479535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000213900230656/XtkZIWDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 87,
+          "like_count": 2015,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "tzy9101",
+        "verified": false
+      }
+    ]
+  }
+}

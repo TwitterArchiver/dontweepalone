@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2084590852245160139",
+    "created_at": "2026-08-04T10:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084590852245160139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1978089499725889536",
+          "start": 3,
+          "username": "cherry_galoreee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084590852245160139",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084258015306563694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cherry_galoreee: brrr! it was so cold today! i heard there's another storm coming. that aside, all of this is fake! ꒰՞ °ᗝ°՞꒱.ᐟ.ᐟ\n\n#bloo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2084257984432250880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzFmA5bIAAUKZQ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2250,
+        "media_key": "3_2084257996469919744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzFmtvbYAAxW_a.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2250,
+        "media_key": "3_2084258007324700672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzFnWLaMAAqgwn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2084590852245160139",
+        "created_at": "2026-08-04T10:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084590852245160139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1978089499725889536",
+              "start": 3,
+              "username": "cherry_galoreee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084590852245160139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084258015306563694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cherry_galoreee: brrr! it was so cold today! i heard there's another storm coming. that aside, all of this is fake! ꒰՞ °ᗝ°՞꒱.ᐟ.ᐟ\n\n#bloo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084257984432250880",
+            "3_2084257996469919744",
+            "3_2084258007324700672"
+          ]
+        },
+        "author_id": "1978089499725889536",
+        "conversation_id": "2084258015306563694",
+        "created_at": "2026-08-03T12:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084258015306563694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "blood"
+            },
+            {
+              "end": 131,
+              "start": 120,
+              "tag": "babystyros"
+            },
+            {
+              "end": 147,
+              "start": 132,
+              "tag": "mentallyilltwt"
+            },
+            {
+              "end": 158,
+              "start": 148,
+              "tag": "ouchietwt"
+            },
+            {
+              "end": 168,
+              "start": 159,
+              "tag": "shedrtwt"
+            },
+            {
+              "end": 176,
+              "start": 169,
+              "tag": "shrtwt"
+            },
+            {
+              "end": 185,
+              "start": 177,
+              "tag": "slittwt"
+            },
+            {
+              "end": 193,
+              "start": 186,
+              "tag": "styros"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkYXUj0kCV",
+              "end": 217,
+              "expanded_url": "https://x.com/cherry_galoreee/status/2084258015306563694/photo/1",
+              "media_key": "3_2084257984432250880",
+              "start": 194,
+              "url": "https://t.co/CkYXUj0kCV"
+            },
+            {
+              "display_url": "pic.x.com/CkYXUj0kCV",
+              "end": 217,
+              "expanded_url": "https://x.com/cherry_galoreee/status/2084258015306563694/photo/1",
+              "media_key": "3_2084257996469919744",
+              "start": 194,
+              "url": "https://t.co/CkYXUj0kCV"
+            },
+            {
+              "display_url": "pic.x.com/CkYXUj0kCV",
+              "end": 217,
+              "expanded_url": "https://x.com/cherry_galoreee/status/2084258015306563694/photo/1",
+              "media_key": "3_2084258007324700672",
+              "start": 194,
+              "url": "https://t.co/CkYXUj0kCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084258015306563694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 4480,
+          "like_count": 1272,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "brrr! it was so cold today! i heard there's another storm coming. that aside, all of this is fake! ꒰՞ °ᗝ°՞꒱.ᐟ.ᐟ\n\n#blood #babystyros #mentallyilltwt #ouchietwt #shedrtwt #shrtwt #slittwt #styros https://t.co/CkYXUj0kCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 309,
+          "like_count": 6983,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T13:24:34.000Z",
+        "description": "@testostetoni\n\ndiagnosed with atypical anorexia nervosa, bipolar disorder ( type ii ), conduct disorder, excoriation disorder, and obsessive-compulsive disorder",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "testostetoni"
+              }
+            ]
+          }
+        },
+        "id": "1978089499725889536",
+        "name": "𝑙𝑖𝑒𝑧𝑒𝑙𝑜𝑡𝑡𝑒 ♡",
+        "pinned_tweet_id": "2083166889141018764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081632808427290624/TAPFJJ8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 99,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "cherry_galoreee",
+        "verified": false
+      }
+    ]
+  }
+}

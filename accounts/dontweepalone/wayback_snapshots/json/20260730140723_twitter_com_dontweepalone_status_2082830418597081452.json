@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2082830418597081452",
+    "created_at": "2026-07-30T14:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082830418597081452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995293884939935744",
+          "start": 3,
+          "username": "Day_Lov3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082830418597081452",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082391178423730653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Day_Lov3r: I wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nPlease let me cut \nPlease let me cut\nPlease let me c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2082830418597081452",
+        "created_at": "2026-07-30T14:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082830418597081452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995293884939935744",
+              "start": 3,
+              "username": "Day_Lov3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082830418597081452",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082391178423730653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Day_Lov3r: I wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nPlease let me cut \nPlease let me cut\nPlease let me c…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995293884939935744",
+        "conversation_id": "2082391178423730653",
+        "created_at": "2026-07-29T09:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082391178423730653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082391178423730653",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 18918,
+          "like_count": 3008,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 1136
+        },
+        "reply_settings": "everyone",
+        "text": "I wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nI wanna cut\nPlease let me cut \nPlease let me cut\nPlease let me cut \nPlease let me cut\nPlease let me cut \nPlease let me cut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 300,
+          "like_count": 6420,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T00:48:50.000Z",
+        "description": "꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ #shtwt - 16yo - ndni ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦                      \n         I mostly follow back˗ˏˋ ★ ˎˊ˗. #appletwt as well???",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 15,
+                "tag": "shtwt"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "tag": "appletwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "daylov3r.straw.page",
+                "end": 23,
+                "expanded_url": "https://daylov3r.straw.page",
+                "start": 0,
+                "url": "https://t.co/rv5Q4R7I1K"
+              }
+            ]
+          }
+        },
+        "id": "1995293884939935744",
+        "name": "🍎Red Blood Cell of shtwt🍎",
+        "pinned_tweet_id": "2078500059839381818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076962404320342016/OAIm4fIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 668,
+          "like_count": 10729,
+          "listed_count": 13,
+          "media_count": 191,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/rv5Q4R7I1K",
+        "username": "Day_Lov3r",
+        "verified": false
+      }
+    ]
+  }
+}

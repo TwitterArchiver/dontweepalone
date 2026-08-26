@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2082518103918014682",
+    "created_at": "2026-07-30T11:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082784668064329846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812825693031657472",
+          "start": 0,
+          "username": "lidbi958959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082784668064329846",
+    "in_reply_to_user_id": "1812825693031657472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082715487100698688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidbi958959 我也喜欢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2082518103918014682",
+        "created_at": "2026-07-30T11:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082784668064329846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812825693031657472",
+              "start": 0,
+              "username": "lidbi958959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082784668064329846",
+        "in_reply_to_user_id": "1812825693031657472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082715487100698688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidbi958959 我也喜欢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812825693031657472",
+        "conversation_id": "2082518103918014682",
+        "created_at": "2026-07-30T06:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082715487100698688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082715487100698688",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082518103918014682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 喜欢 星辰时刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 300,
+          "like_count": 6375,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T12:25:11.000Z",
+        "description": "池塘生春草，园柳变鸣禽",
+        "id": "1812825693031657472",
+        "name": "葵尖秋露／キノサキアキル",
+        "pinned_tweet_id": "2005680113275596996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980290943291961344/13elfk9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "lidbi958959",
+        "verified": false
+      }
+    ]
+  }
+}

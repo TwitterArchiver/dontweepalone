@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082426678131986432"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "conversation_id": "2082426689045639289",
+    "created_at": "2026-07-29T11:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082426689045639289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9w9iIO9OD",
+          "end": 31,
+          "expanded_url": "https://x.com/dontweepalone/status/2082426689045639289/photo/1",
+          "media_key": "3_2082426678131986432",
+          "start": 8,
+          "url": "https://t.co/E9w9iIO9OD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082426689045639289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "够了msk 。 https://t.co/E9w9iIO9OD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082426678131986432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZEB9TakAAsZ3y.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082426678131986432"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2082426689045639289",
+        "created_at": "2026-07-29T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082426689045639289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9w9iIO9OD",
+              "end": 31,
+              "expanded_url": "https://x.com/dontweepalone/status/2082426689045639289/photo/1",
+              "media_key": "3_2082426678131986432",
+              "start": 8,
+              "url": "https://t.co/E9w9iIO9OD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082426689045639289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "够了msk 。 https://t.co/E9w9iIO9OD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 295,
+          "like_count": 6266,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2080712151703183804",
+    "created_at": "2026-07-24T17:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080712151703183804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《マイラストグラヴィティ (feat. 初音ミク)》，由 ゆにP 演唱，收录于《パラドックスガール》专辑中，《マイラストグラヴィティ (feat. 初音ミク)》下载，《マイラストグラヴィティ (feat. 初音ミク)》在线试听，更多マイラストグラヴィティ (feat. 初音ミク)相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bbHJxFKJ",
+          "end": 57,
+          "expanded_url": "https://163cn.tv/bbHJxFKJ",
+          "images": [
+            {
+              "height": 1400,
+              "url": "https://pbs.twimg.com/news_img/2080712163518558208/Qm4ki5RG?format=jpg&name=orig",
+              "width": 1400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080712163518558208/Qm4ki5RG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 34,
+          "status": 200,
+          "title": "マイラストグラヴィティ (feat. 初音ミク) - ゆにP - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&id=1385128232&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=kXf0omh2PwovbYqFInjTEw==&playerUIModeId=76001&app_version=9.5.50&dlt=0846",
+          "url": "https://t.co/H3Rc8bxsUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080712151703183804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享ゆにP的单曲《マイラストグラヴィティ (feat. 初音ミク)》https://t.co/H3Rc8bxsUF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2080712151703183804",
+        "created_at": "2026-07-24T17:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080712151703183804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《マイラストグラヴィティ (feat. 初音ミク)》，由 ゆにP 演唱，收录于《パラドックスガール》专辑中，《マイラストグラヴィティ (feat. 初音ミク)》下载，《マイラストグラヴィティ (feat. 初音ミク)》在线试听，更多マイラストグラヴィティ (feat. 初音ミク)相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bbHJxFKJ",
+              "end": 57,
+              "expanded_url": "https://163cn.tv/bbHJxFKJ",
+              "images": [
+                {
+                  "height": 1400,
+                  "url": "https://pbs.twimg.com/news_img/2080712163518558208/Qm4ki5RG?format=jpg&name=orig",
+                  "width": 1400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080712163518558208/Qm4ki5RG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "マイラストグラヴィティ (feat. 初音ミク) - ゆにP - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&id=1385128232&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=kXf0omh2PwovbYqFInjTEw==&playerUIModeId=76001&app_version=9.5.50&dlt=0846",
+              "url": "https://t.co/H3Rc8bxsUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080712151703183804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享ゆにP的单曲《マイラストグラヴィティ (feat. 初音ミク)》https://t.co/H3Rc8bxsUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 287,
+          "like_count": 5804,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 499
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

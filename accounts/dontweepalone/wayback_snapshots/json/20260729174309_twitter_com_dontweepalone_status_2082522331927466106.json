@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082522325807972352"
+      ]
+    },
+    "author_id": "1863233896403628033",
+    "conversation_id": "2082511766471479545",
+    "created_at": "2026-07-29T17:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082522331927466106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ij6hC93kc",
+          "end": 32,
+          "expanded_url": "https://x.com/dontweepalone/status/2082522331927466106/photo/1",
+          "media_key": "3_2082522325807972352",
+          "start": 9,
+          "url": "https://t.co/0ij6hC93kc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082522331927466106",
+    "in_reply_to_user_id": "1863233896403628033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082511766471479545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看不懂我好急呀x https://t.co/0ij6hC93kc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082522325807972352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOabBYqawAArqr4.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082522325807972352"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2082511766471479545",
+        "created_at": "2026-07-29T17:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082522331927466106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ij6hC93kc",
+              "end": 32,
+              "expanded_url": "https://x.com/dontweepalone/status/2082522331927466106/photo/1",
+              "media_key": "3_2082522325807972352",
+              "start": 9,
+              "url": "https://t.co/0ij6hC93kc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082522331927466106",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082511766471479545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看不懂我好急呀x https://t.co/0ij6hC93kc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2082511766471479545",
+        "created_at": "2026-07-29T17:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082511766471479545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082511766471479545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "德语好难学，但策兰是我的动力…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 299,
+          "like_count": 6339,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}
