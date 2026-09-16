@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1863233896403628033",
+    "conversation_id": "2078170637592568245",
+    "created_at": "2026-07-17T17:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078170637592568245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "，《null》下载，《null》在线试听，更多null相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bbe8HqQr",
+          "end": 73,
+          "expanded_url": "https://163cn.tv/bbe8HqQr",
+          "start": 50,
+          "status": 200,
+          "title": "- - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&id=554245317&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=kXf0omh2PwovbYqFInjTEw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+          "url": "https://t.co/p6KFyQwXAf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078170637592568245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或許只有死去才能再見你一面。\n分享牛尾憲輔的单曲《reflexion,allegretto,you》https://t.co/p6KFyQwXAf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2078170637592568245",
+        "created_at": "2026-07-17T17:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078170637592568245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "，《null》下载，《null》在线试听，更多null相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bbe8HqQr",
+              "end": 73,
+              "expanded_url": "https://163cn.tv/bbe8HqQr",
+              "start": 50,
+              "status": 200,
+              "title": "- - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&id=554245317&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=kXf0omh2PwovbYqFInjTEw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+              "url": "https://t.co/p6KFyQwXAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078170637592568245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或許只有死去才能再見你一面。\n分享牛尾憲輔的单曲《reflexion,allegretto,you》https://t.co/p6KFyQwXAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^\n剖开血管 做成阶梯 逃往夜的另一边。",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 251,
+          "like_count": 5252,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}
